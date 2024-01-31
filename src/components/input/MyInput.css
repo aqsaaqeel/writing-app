@@ -1,0 +1,8 @@
+.editor-screen{
+    border: solid 1px black;
+    width: 70rem;
+    height: 50rem;
+}
+.put-heading{
+    font-size: 3rem;
+}
